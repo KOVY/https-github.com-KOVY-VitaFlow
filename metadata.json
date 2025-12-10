@@ -1,0 +1,9 @@
+{
+  "name": "VitalFlow",
+  "description": "AI-first fitness & health companion merging training, nutrition, and recovery into one adaptive loop.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
